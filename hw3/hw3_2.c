@@ -5,7 +5,7 @@
 #define MAX_SIZE 100000  // Maximum size of the array
 
 // Shared sorted array and its size
-int sorted_array[MAX_SIZE];
+int sorted_array[MAX_SIZE]; 
 int size = 0;
 
 // Function to insert an integer into the sorted array
